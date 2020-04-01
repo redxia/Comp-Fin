@@ -14,45 +14,29 @@ will be covered.
 
 1
 Random Number Generation, Discrete
-and Continuous Random Variable Simulation 1
-Wednesday of the
-following week
+and Continuous Random Variable Simulation
 
 2
 Monte Carlo Simulation, Option pricing – the first steps
-Variance Reduction techniques. 2
-Wednesday of the
-following week
+Variance Reduction techniques.
 
 3
 Simulation of Stochastic Processes, discretization schemes
 (Euler, Milstein, etc.), Pricing Securities by Simulation –
 the first steps. Low-Discrepancy sequences, Applications.
 
-3
-Wednesday of the
-following week
-
 4
 Binomial, Trinomial methods of pricing European
-and American options. Estimation of Greeks. 4
-Wednesday of the
-following week
+and American options. Estimation of Greeks.
 
 5
 Pricing American Options by Simulation,
-Least Square Monte Carlo (LSMC) method. 5
-Wednesday of the
-following week
+Least Square Monte Carlo (LSMC) method.
 
 6
 Exotic option valuation: Asian options, Barrier options,
 Variance/Volatility Swap Valuation. Consumer Loan
 Default modeling and pricing.
-
-6
-Wednesday of the
-following week
 
 7
 Numerical Partial Differential Equations-Methods, finite
