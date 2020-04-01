@@ -1,4 +1,4 @@
-# Comp-Fin
+# Computational Methods in Finance
 Computational Methods in Finance
 
 This course introduces some of the major numerical methods needed for quantitative work in finance,
