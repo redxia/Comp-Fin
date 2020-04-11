@@ -1,0 +1,29 @@
+﻿  main.cpp
+c:\users\redmo\desktop\ucla mfe\sping 2020\computational method\week1\project1\project1\lgmgenerator.h(9): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\redmo\desktop\ucla mfe\sping 2020\computational method\week1\project1\project1\lgmgenerator.h(9): warning C4244: 'initializing': conversion from 'double' to 'const unsigned int', possible loss of data
+c:\users\redmo\desktop\ucla mfe\sping 2020\computational method\week1\project1\project1\lgmgenerator.h(11): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\redmo\desktop\ucla mfe\sping 2020\computational method\week1\project1\project1\lgmgenerator.h(11): warning C4244: 'initializing': conversion from 'double' to 'const unsigned int', possible loss of data
+c:\users\redmo\desktop\ucla mfe\sping 2020\computational method\week1\project1\project1\main.cpp(57): warning C4018: '<': signed/unsigned mismatch
+c:\users\redmo\desktop\ucla mfe\sping 2020\computational method\week1\project1\project1\main.cpp(112): warning C4018: '<': signed/unsigned mismatch
+c:\users\redmo\desktop\ucla mfe\sping 2020\computational method\week1\project1\project1\main.cpp(171): warning C4018: '<': signed/unsigned mismatch
+c:\users\redmo\desktop\ucla mfe\sping 2020\computational method\week1\project1\project1\main.cpp(210): warning C4018: '<': signed/unsigned mismatch
+c:\users\redmo\desktop\ucla mfe\sping 2020\computational method\week1\project1\project1\main.cpp(230): warning C4018: '<': signed/unsigned mismatch
+c:\users\redmo\desktop\ucla mfe\sping 2020\computational method\week1\project1\project1\main.cpp(180): warning C4018: '<': signed/unsigned mismatch
+  c:\users\redmo\desktop\ucla mfe\sping 2020\computational method\week1\project1\project1\main.cpp(48): note: see reference to function template instantiation 'double mean<double>(std::vector<double,std::allocator<_Ty>>)' being compiled
+          with
+          [
+              _Ty=double
+          ]
+c:\users\redmo\desktop\ucla mfe\sping 2020\computational method\week1\project1\project1\main.cpp(191): warning C4018: '<': signed/unsigned mismatch
+  c:\users\redmo\desktop\ucla mfe\sping 2020\computational method\week1\project1\project1\main.cpp(49): note: see reference to function template instantiation 'double stdDev<double>(std::vector<double,std::allocator<_Ty>>)' being compiled
+          with
+          [
+              _Ty=double
+          ]
+c:\users\redmo\desktop\ucla mfe\sping 2020\computational method\week1\project1\project1\main.cpp(202): warning C4018: '<': signed/unsigned mismatch
+  c:\users\redmo\desktop\ucla mfe\sping 2020\computational method\week1\project1\project1\main.cpp(80): note: see reference to function template instantiation 'void writeToTXT<int>(std::vector<int,std::allocator<_Ty>>,std::string)' being compiled
+          with
+          [
+              _Ty=int
+          ]
+  Project1.vcxproj -> C:\Users\redmo\Desktop\ucla mfe\Sping 2020\Computational Method\Week1\Project1\Project1\Debug\Project1.exe

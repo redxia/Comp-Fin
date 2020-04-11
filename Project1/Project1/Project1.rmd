@@ -1,0 +1,29 @@
+---
+title: "Computational Method PDF"
+author: "Redmond Xia"
+date: "April 7, 2020"
+output: pdf_document
+---
+
+# Problem 2(b)
+```{r }
+histBern <- read.delim("q2.txt",sep = '\n', header = FALSE)
+hist(histBern$V1, main = "Bernoulli Distribution of LGM X_0 = 5" , xlab = "X = {-1,0,1,2}")
+```
+
+# Problem 3(b)
+```{r}
+histBin <- read.delim("q3b.txt",sep = '\n', header = FALSE)
+hist(histBin$V1, main = "Binomial Distribution of LGM Algorithm", breaks = 30)
+prob40Greater <- 1 - pbinom(39,size = 44, p = 0.64) 
+prob40Greater
+```
+The Probability for P(X >= 40) is 4.823664e-05, which is very close to zero
+This is why we have zero in our C++. None of it passed 40.
+
+# Problem 4c
+```{r}
+histexp <- read.delim("q4c.txt",sep = '\n', header = FALSE)
+hist(histexp$V1, main = "Exponential Distribution of LGM Algorithm", breaks = 25)
+```
+
